@@ -22,8 +22,7 @@ int findalpha(char a)
 int main()
 {
     int i, j, p[20], q[20], k;
-	printf("\nMilan Jijo MDL20CS074 Roll No:");
-    printf("\n-----------------------------------------\n\n");
+    printf("Milan Jijo, MDL20CS074 , CS7B37\n\n");
     char a;
     for (i = 0; i < 30; i++)
     {
@@ -169,4 +168,3 @@ int main()
     }
     return 0;
 }
-
